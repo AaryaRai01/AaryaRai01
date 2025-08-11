@@ -53,10 +53,10 @@
 
 ## 📬 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/aarya-rai" target="_blank">
+  <a href="https://www.linkedin.com/in/aarya-rai-one/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
-  <a href="mailto:aaryarai@example.com">
+  <a href="mailto:aarya.rai185@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
   <a href="https://github.com/AaryaRai01">
