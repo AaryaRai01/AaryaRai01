@@ -4,52 +4,21 @@
 
 ---
 
-## 🚀 About Me
-🌟 **Computer Science Student** passionate about pushing the boundaries of **AI, Cloud, and Web Development**.  
-🔭 Currently exploring **Generative AI**, **Serverless Apps**, and **Multi-Cloud Architectures**.  
-⚡ I love turning **complex tech ideas** into **user-friendly, impactful solutions**.  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
----
+## 🚀 About Me
+💡 **Computer Science Student** exploring **Generative AI**, **Full Stack Dev**, and **Multi-Cloud Architectures**.  
+🎯 Passionate about **creating impactful, user-focused tech solutions**.  
+⚡ Turning **innovative ideas** into **real-world applications** with a creative twist.  
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🛠 Tech Stack
-<table align="center">
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br>C
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3
-</td>
-<td align="center" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50"/><br>AWS
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br>Azure
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br>GCP
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,aws,azure,gcp" height="60"/>
+</p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📬 Let's Connect
 <p align="center">
@@ -64,6 +33,8 @@
   </a>
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center">⚡ "Turning Ideas into Intelligent Solutions" ⚡</h3>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
