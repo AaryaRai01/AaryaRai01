@@ -65,7 +65,7 @@ aarya:
 
 **Career Intelligence Platform**
 
-<img src="https://img.shields.io/badge/●_BUILDING-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/🤖_AI--POWERED-22C55E?style=flat-square"/>
 
 <br/><br/>
 
