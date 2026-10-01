@@ -43,7 +43,6 @@ aarya:
   code: [Python, TypeScript, Java]
   builds: [APIs, Web, AI]
   cloud: [AWS, GCP, Azure]
-  current: RoleClear
   mode: "ship > overthink"
 ```
 
